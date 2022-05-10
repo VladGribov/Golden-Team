@@ -1,4 +1,4 @@
-package com.java.classTest;
+package com.java.sprint1;
 
 import java.util.Scanner;
 
