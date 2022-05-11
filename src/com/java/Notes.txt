@@ -1,0 +1,14 @@
+Compliments of Becky!
+
+Steps on How to Push to Github:
+1. Create a folder anywhere on your PC
+2. Open Terminal/GitBash and go to that folder (cd “whatever you named it”)
+3. Once in that folder type: git clone https://github.com/VladGribov/Golden-Team.git
+4. Open IntelliJ, click on File -> Open -> select the folder that you created in step 1, -> select the Github folder that you cloned -> click open
+5. If it turns red in IntelliJ, click File -> Project Structure -> Select 1.8 SDK -> Apply -> ok
+6. Right-click in IntelliJ -> Open in -> Terminal (opens terminal in IntelliJ)
+7. Create your own branch first:  git checkout -b <yourName>
+8. After you make any changes add them: git add .
+9. Commit your changes: git commit -m “meaningful message (changes you made)”
+10. Push your commits to Github: git push origin <yourBranchName>
+11. After you push your changes, Vlad will merge them to the main branch.
