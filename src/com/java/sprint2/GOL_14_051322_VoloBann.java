@@ -1,5 +1,8 @@
 package com.java.sprint2;
-
+/* User Story GOL-14: I as user “ABC”, I want to get  n repetitions
+of the last n characters of the string so that I can enter a string
+and get result as n repetitions of the last n characters.
+ */
 import java.util.Scanner;
 
 public class GOL_14_051322_VoloBann {

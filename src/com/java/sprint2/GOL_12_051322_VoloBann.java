@@ -1,5 +1,8 @@
 package com.java.sprint2;
-
+/*User Story GOL-12: "I as user “XYZ”, I want to get indexes of the two numbers
+of given array such they add to target so that I can enter length of array,
+its elements and target and get result as two indexes."
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 
