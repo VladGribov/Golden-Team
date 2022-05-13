@@ -8,7 +8,7 @@ public class GOL_12_051322_VoloBann {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the length of the array (2 <= length <= 10^4): ");
         int length = sc.nextInt();
-        System.out.println("Enter the number you want to find sum (target): ");
+        System.out.println("Enter the number you want to find sum (-109 <= target <= 109): ");
         int target = sc.nextInt();
         System.out.println("Enter the elements of the array (-10^9 <= element <= 10^9): ");
         int[] nums = new int[length];
