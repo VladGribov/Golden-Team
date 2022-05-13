@@ -5,5 +5,8 @@ public class Test {
         System.out.println("Hello World");
         System.out.println("Testing GitHub");
         System.out.println("fernando wrote this :)");
+        System.out.println("Liz testing git");
+        System.out.println("Aigul!");
+        System.out.println("Hello Golden Team!");
     }
 }
