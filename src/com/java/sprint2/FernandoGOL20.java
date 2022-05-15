@@ -20,7 +20,7 @@ public class FernandoGOL20 {
     public static int max(int a, int b) {
 
 
-        if (a > 21 && b > 21) {
+        if (a > 21 && b > 21 || a<0 && b<0) {
             return 0;
         } else if (a > 21) {
             return b;
