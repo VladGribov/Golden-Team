@@ -9,6 +9,5 @@ public class GOL_16 {
             result = result + str.substring(0, i+1);
         }
         System.out.println(result);
-
     }
 }
