@@ -16,7 +16,7 @@ plusTwo([9, 2], [3, 4]) → [9, 2, 3, 4]
         int[] a = {sc.nextInt(), sc.nextInt()};
         int[] b = {sc.nextInt(), sc.nextInt()};
 
-        System.out.println(Arrays.toString(GT_24_Becky.plusTwo(a, b)));
+        System.out.println(Arrays.toString(plusTwo(a, b)));
     }
 
     public static int[] plusTwo(int[] a, int[] b) {
