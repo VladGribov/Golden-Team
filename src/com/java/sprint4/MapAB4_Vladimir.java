@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class mapAB4_Vladimir {
+public class MapAB4_Vladimir {
     public Map<String, String> mapAB4(Map<String, String> map) {
         if(!map.containsKey("a") || !map.containsKey("b")){
             return map;
@@ -22,7 +22,7 @@ public class mapAB4_Vladimir {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        mapAB4_Vladimir m = new mapAB4_Vladimir();
+        MapAB4_Vladimir m = new MapAB4_Vladimir();
         HashMap<String, String> map = new HashMap<>();
         System.out.println("Map contains \"a\" yes or no?");
         String a = sc.nextLine().toLowerCase();
